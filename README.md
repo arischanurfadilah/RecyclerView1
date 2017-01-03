@@ -4,4 +4,6 @@ Kelas : XI RPL 1 <br>
 No. Urut : 04 <br>
 NIS : 4670 <br>
 Sekolah : SMK Telkom Malang <br>
-![Screenshoot](
+
+![Screenshoot2](https://github.com/arischanurfadilah/RecyclerView1/blob/master/Screenshot_20161102-175454.png)
+![Screenshoot1](https://github.com/arischanurfadilah/RecyclerView1/blob/master/Screenshot_20161102-175519.png)
